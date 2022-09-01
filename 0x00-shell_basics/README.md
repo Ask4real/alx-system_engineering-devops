@@ -1,1 +1,1 @@
-food is ready
+food
