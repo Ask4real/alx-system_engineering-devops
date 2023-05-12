@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod admin:betty hello
+chown admin:betty hello
