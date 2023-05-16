@@ -1,1 +1,1 @@
-My Devops journey
+Shell redirections
